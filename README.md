@@ -1,1 +1,2 @@
-"# golang_array" 
+# Array 
+variable with multiple values
